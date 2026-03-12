@@ -10,9 +10,9 @@ This project requires applying the SQL querying skills learned in class to compl
 Resources:
 
 The department's table contains the following columns:
-	•	department_id: Department ID
-	•	department_name: Department name
-	•	location_id: Location ID of the department
+- department_id: Department ID
+- department_name: Department name
+- location_id: Location ID of the department
 
 The employees table contains the following columns:
 	•	employee_id: Employee ID
